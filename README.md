@@ -13,10 +13,10 @@ responsável pelo gerenciamento de usuários e autenticação.
 ## 📂 Estrutura do projeto
 
 src/
- ├── app.ts
- ├── server.ts
- └── routes/
-     └── index.ts
+├── app.ts
+├── server.ts
+└── routes/
+└── index.ts
 
 ## ⚙️ Configuração do ambiente
 
