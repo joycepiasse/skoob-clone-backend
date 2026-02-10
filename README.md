@@ -12,11 +12,13 @@ responsável pelo gerenciamento de usuários e autenticação.
 
 ## 📂 Estrutura do projeto
 
+```
 src/
 ├── app.ts
 ├── server.ts
 └── routes/
-└── index.ts
+    └── index.ts
+```
 
 ## ⚙️ Configuração do ambiente
 
@@ -24,7 +26,7 @@ Crie um arquivo `.env` na raiz do projeto com a seguinte variável:
 
 JWT_SECRET=seu_segredo_aqui
 
-> ⚠️ O arquivo `.env` não é versionado por segurança.
+> O arquivo `.env` não é versionado por segurança.
 
 ## ▶️ Como rodar o projeto
 
